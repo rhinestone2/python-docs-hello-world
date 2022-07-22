@@ -6,6 +6,6 @@ def hello():
     return "Hello, World!"
 
 
-@app.route("/67bc5gA3df32G
+@app.route("/67bc5gA3df32G")
 def takeover():
            return "Subdomain Takeover by @rhinestonecowboy"
